@@ -12,7 +12,6 @@
       - 🎓 **Education:** Pursuing IT Major at University of North Alabama.
       - 🛠️ **Current Focus:** Infrastructure Security.
       - ⚡ **Fun Fact:** I have a special interest in Transformers.
-      ### 🛠️ Tech Stack
   </tr>
 </table>
 
